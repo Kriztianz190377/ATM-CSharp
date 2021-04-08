@@ -1,0 +1,75 @@
+B:\Projet d'integration-Phase 1\ATM\ATM\bin\Debug\ATM.exe.config
+B:\Projet d'integration-Phase 1\ATM\ATM\bin\Debug\ATM.exe
+B:\Projet d'integration-Phase 1\ATM\ATM\bin\Debug\ATM.pdb
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\frmLogginATM.g.cs
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\App.g.cs
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM_MarkupCompile.cache
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM_MarkupCompile.lref
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\frmLogginATM.baml
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.g.resources
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.exe
+B:\Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.pdb
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\bin\Debug\ATM.exe.config
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.exe
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.pdb
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\frmLogginATM.g.cs
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\App.g.cs
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM_MarkupCompile.cache
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM_MarkupCompile.lref
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\bin\Debug\ATM.exe
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\bin\Debug\ATM.pdb
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\frmLogginATM.baml
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.g.resources
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\bin\Debug\ATMBibliotheque.dll
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\bin\Debug\ATMBibliotheque.pdb
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATMPrincipal.g.cs
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATMPrincipal.baml
+B:\projetFITP\Castaneda_Projet d'integration-Phase 1\ATM\ATM\bin\Debug\ATM.exe.config
+B:\projetFITP\Castaneda_Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.exe
+B:\projetFITP\Castaneda_Projet d'integration-Phase 1\ATM\ATM\obj\Debug\ATM.pdb
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\bin\Debug\ATM.exe.config
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\bin\Debug\ATM.exe
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\bin\Debug\ATM.pdb
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\bin\Debug\ATMBibliotheque.dll
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\bin\Debug\ATMBibliotheque.pdb
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATMPrincipal.g.cs
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\frmLogginATM.g.cs
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\App.g.cs
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATM_MarkupCompile.cache
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATM_MarkupCompile.lref
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATMPrincipal.baml
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\frmLogginATM.baml
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATM.g.resources
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATM.csproj.CopyComplete
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATM.exe
+D:\kriztianz\program_CCCL_vaio\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\CCCL\Desktop\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\CCCL\Desktop\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\CCCL\Desktop\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\CCCL\Desktop\ATM\ATM\bin\Debug\ATMBibliotheque.dll
+C:\Users\CCCL\Desktop\ATM\ATM\bin\Debug\ATMBibliotheque.pdb
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATMPrincipal.g.cs
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\frmLogginATM.g.cs
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\App.g.cs
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATM_MarkupCompile.cache
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATM_MarkupCompile.lref
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATMPrincipal.baml
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\frmLogginATM.baml
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATM.g.resources
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\CCCL\Desktop\ATM\ATM\obj\Debug\ATM.pdb

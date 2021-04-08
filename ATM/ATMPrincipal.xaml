@@ -1,0 +1,101 @@
+﻿<Window  x:Class="ATM.ATMPrincipal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ATM"
+        mc:Ignorable="d"
+        Title="Guichet Automatique ATM" Height="450" Width="500" BorderBrush="#FF6C6767" Background="#FFE2DBDB" FontSize="14" FontFamily="Segoe UI Light" Closing="Window_Closing">
+    <Grid>
+        <GroupBox x:Name="grpBPave" Header="Pavé numérique" HorizontalAlignment="Left" Margin="20,50,0,0" VerticalAlignment="Top" Height="286" Width="260">
+            <Grid HorizontalAlignment="Left" Height="230" Margin="10,10,0,0" VerticalAlignment="Top" Width="225">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="9*"/>
+                    <ColumnDefinition Width="55*"/>
+                    <ColumnDefinition Width="20*"/>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="20*"/>
+                    <ColumnDefinition Width="45*"/>
+                    <ColumnDefinition Width="26*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="7*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="8*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="7*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="5*"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="3*"/>
+                    <RowDefinition Height="Auto" MinHeight="20"/>
+                </Grid.RowDefinitions>
+                <Button x:Name="btn1" Content="1" Grid.Column="1" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="1" VerticalAlignment="Top" Width="45" Height="35" Click="btn1_Click"/>
+                <Button x:Name="btn2" Content="2" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="50" Height="35" Click="btn2_Click"/>
+                <Button x:Name="btn3" Content="3" Grid.Column="5" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="45" Height="35" Click="btn3_Click"/>
+                <Button x:Name="btn4" Content="4" Grid.Column="1" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="3" VerticalAlignment="Top" Width="45" Height="40" Click="btn4_Click"/>
+                <Button x:Name="btn5" Content="5" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="50" Height="40" Click="btn5_Click"/>
+                <Button x:Name="btn6" Content="6" Grid.Column="5" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="45" Height="40" Click="btn6_Click"/>
+                <Button x:Name="btn7" Content="7" HorizontalAlignment="Left" Grid.Row="5" VerticalAlignment="Top" Width="45" Grid.Column="1" Height="35" Margin="10,0,0,0" Click="btn7_Click"/>
+                <Button x:Name="btn8" Content="8" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="5" VerticalAlignment="Top" Width="50" Height="35" Click="btn8_Click"/>
+                <Button x:Name="btn9" Content="9" Grid.Column="5" HorizontalAlignment="Left" Margin="0,1,0,0" Grid.Row="5" VerticalAlignment="Top" Width="45" Height="34" Click="btn9_Click"/>
+                <Button x:Name="btnPiriood" Content="." Grid.Column="5" HorizontalAlignment="Left" Grid.Row="7" VerticalAlignment="Top" Width="45" Height="35" Grid.RowSpan="3" Click="btnPiriood_Click"/>
+                <Button x:Name="btn0" Content="0" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="7" VerticalAlignment="Top" Width="50" Height="35" Grid.RowSpan="3" Click="btn0_Click"/>
+                <TextBox x:Name="txtEcran" Grid.ColumnSpan="5" Grid.Column="1" HorizontalAlignment="Left" 
+                         Height="23" Margin="0,10,0,0" Grid.Row="9" TextWrapping="Wrap" Text="" 
+                         VerticalAlignment="Top" Width="190" Grid.RowSpan="2" />
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="grpBTransaction" Header="Transaction" HorizontalAlignment="Left" Margin="305,65,0,0" VerticalAlignment="Top" Height="165" Width="170">
+            <Grid HorizontalAlignment="Left" Height="130" Margin="0,10,-2,-1" VerticalAlignment="Top" Width="160" RenderTransformOrigin="-0.26,-0.4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="9*"/>
+                    <ColumnDefinition Width="71*"/>
+                    <ColumnDefinition Width="80*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <RadioButton x:Name="rbtDepot" Content="Dépot" Grid.Column="1" HorizontalAlignment="Left" 
+                             Margin="0,7,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="105" 
+                             Height="18" IsChecked="False"  />
+                <RadioButton x:Name="rbtRetrait" Content="Retrait" HorizontalAlignment="Left" 
+                             Margin="0,7,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.ColumnSpan="2" 
+                             Grid.Column="1" Width="105" Height="18" IsChecked="False"/>
+                <RadioButton x:Name="rbtTransfert" Content="Transfert" Grid.Column="1" 
+                             HorizontalAlignment="Left" Margin="0,7,0,0" Grid.Row="2" 
+                             VerticalAlignment="Top" Grid.ColumnSpan="2" Width="105" 
+                             Height="18" IsChecked="False"/>
+                <RadioButton x:Name="rbtPDF" Content="Paiment de Factures" Grid.Column="1" HorizontalAlignment="Left" 
+                             Margin="0,7,0,0" Grid.Row="3" VerticalAlignment="Top" 
+                             Grid.ColumnSpan="2" Width="141" Height="18" IsChecked="False"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="grpBCompte" Header="Compte" HorizontalAlignment="Left" Margin="305,241,0,0" VerticalAlignment="Top" Height="95" Width="170">
+            <Grid HorizontalAlignment="Left" Height="59" Margin="0,10,-2,0" VerticalAlignment="Top" Width="160" RenderTransformOrigin="-0.26,-0.4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="9*"/>
+                    <ColumnDefinition Width="71*"/>
+                    <ColumnDefinition Width="80*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="24*"/>
+                    <RowDefinition Height="25*"/>
+                    <RowDefinition Height="10*"/>
+                </Grid.RowDefinitions>
+                <RadioButton x:Name="rbtCheques" Content="Cheques" Grid.Column="1" HorizontalAlignment="Left" 
+                             Margin="0,7,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" 
+                             Height="17" Width="91" IsChecked="False" />
+                <RadioButton x:Name="rbtEpargne" Content="Épargne" Grid.Column="1" HorizontalAlignment="Left" 
+                             Margin="0,7,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.ColumnSpan="2" 
+                             Width="91" Height="18" IsChecked="false"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="bubtnSoumettre" Content="Soumettre" HorizontalAlignment="Left" Margin="305,365,0,0" VerticalAlignment="Top" Width="75" Click="bubtnSoumettre_Click"/>
+        <Button x:Name="btnFerme" Content="Ferme" HorizontalAlignment="Left" Margin="400,365,0,0" VerticalAlignment="Top" Width="75" Click="btnFerme_Click"/>
+    </Grid>
+</Window>

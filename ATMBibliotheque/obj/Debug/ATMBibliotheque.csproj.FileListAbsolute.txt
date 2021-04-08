@@ -1,0 +1,17 @@
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.csprojResolveAssemblyReference.cache
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATMBibliotheque\bin\Debug\ATMBibliotheque.dll
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATMBibliotheque\bin\Debug\ATMBibliotheque.pdb
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.dll
+B:\projetFITP\1Projet d'integration-Phase 1\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.pdb
+D:\kriztianz\program_CCCL_vaio\ATM\ATMBibliotheque\bin\Debug\ATMBibliotheque.dll
+D:\kriztianz\program_CCCL_vaio\ATM\ATMBibliotheque\bin\Debug\ATMBibliotheque.pdb
+D:\kriztianz\program_CCCL_vaio\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.csprojAssemblyReference.cache
+D:\kriztianz\program_CCCL_vaio\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.csproj.CoreCompileInputs.cache
+D:\kriztianz\program_CCCL_vaio\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.dll
+D:\kriztianz\program_CCCL_vaio\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.pdb
+C:\Users\CCCL\Desktop\ATM\ATMBibliotheque\bin\Debug\ATMBibliotheque.dll
+C:\Users\CCCL\Desktop\ATM\ATMBibliotheque\bin\Debug\ATMBibliotheque.pdb
+C:\Users\CCCL\Desktop\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.csprojAssemblyReference.cache
+C:\Users\CCCL\Desktop\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.csproj.CoreCompileInputs.cache
+C:\Users\CCCL\Desktop\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.dll
+C:\Users\CCCL\Desktop\ATM\ATMBibliotheque\obj\Debug\ATMBibliotheque.pdb
